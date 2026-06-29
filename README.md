@@ -1,2 +1,2 @@
 # option-trading-free-lesson
-Complete curriculum on options trading from master’s programs in financial engineering and the CQF.
+Complete curriculum on quantitative trading from master’s programs in financial engineering and the CQF.
