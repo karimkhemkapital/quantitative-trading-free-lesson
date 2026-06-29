@@ -1,21 +1,71 @@
-MIT License
+KHEM KAPITAL PROPRIETARY EDUCATIONAL LICENSE
 
-Copyright (c) 2026 karim.khem
+Copyright (c) 2026 Karim Khemiri / Khem Kapital.
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository, including all lessons, text, formulas, examples, source code,
+documentation, images, and associated files (the "Materials"), is owned by
+Karim Khemiri / Khem Kapital.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Limited Permission
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may access, read, and download one copy of the Materials solely for your
+own personal, private, non-commercial educational use.
+
+The Python code examples may be run locally only for personal learning,
+research, and study. This permission does not transfer ownership and does not
+grant any broader license.
+
+2. Prohibited Uses
+
+Without prior written permission from Karim Khemiri / Khem Kapital, you may
+not:
+
+- reproduce, copy, mirror, scrape, publish, upload, or redistribute the
+  Materials;
+- sell, resell, rent, sublicense, package, include, or otherwise commercialize
+  the Materials;
+- use the Materials in a paid course, paid community, book, newsletter,
+  product, training program, software product, dataset, or consulting service;
+- modify, adapt, translate, or create derivative works from the Materials for
+  distribution;
+- remove, alter, or hide copyright notices, authorship notices, or references
+  to Karim Khemiri / Khem Kapital;
+- use the Materials to train, fine-tune, evaluate, or build machine learning or
+  artificial intelligence systems, datasets, or models;
+- claim authorship, ownership, sponsorship, endorsement, or affiliation with
+  Karim Khemiri / Khem Kapital.
+
+3. No Open Source License
+
+The Materials are not released under an open source license. No permission is
+granted under MIT, Apache, GPL, BSD, Creative Commons, public domain, or any
+similar permissive license.
+
+Any use not expressly allowed in this license is prohibited.
+
+4. Commercial Permission
+
+Commercial use, redistribution, republication, resale, integration into a
+product, or use in a paid educational or professional context requires prior
+written authorization from Karim Khemiri / Khem Kapital.
+
+5. No Warranty
+
+The Materials are provided for educational purposes only, without warranty of
+any kind, express or implied. The Materials are not financial, investment,
+trading, legal, tax, or professional advice.
+
+Karim Khemiri / Khem Kapital shall not be liable for any loss, damage, claim,
+or consequence arising from access to, use of, or reliance on the Materials.
+
+6. Termination
+
+Any violation of this license automatically terminates the limited permission
+granted above. Upon termination, you must stop using the Materials and delete
+all copies in your possession or control.
+
+7. Contact
+
+For permission requests, licensing, partnerships, or commercial use, contact
+Karim Khemiri / Khem Kapital through the official Khem Kapital channels.
